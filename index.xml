@@ -6,10 +6,20 @@
     <description>Recent content on Vladimir Macko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 20 Mar 2018 02:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vlamacko.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://vlamacko.github.io/about/</link>
+      <pubDate>Tue, 20 Mar 2018 23:00:00 +0000</pubDate>
+      
+      <guid>https://vlamacko.github.io/about/</guid>
+      <description>I am an undergraduate engineering student and a teaching assistant at University of Bristol. I am interested in applying mathematics to wide range of real world problems. In addition to my course I dabble in computer science, programming and software engineering.
+For more information you can take check out my curriculum vitae or my LinkedIn page.</description>
+    </item>
     
     <item>
       <title>Home</title>

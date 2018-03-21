@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vlamacko.github.io/about/</loc>
+    <lastmod>2018-03-20T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vlamacko.github.io/home/</loc>
     <lastmod>2018-03-20T02:15:35+00:00</lastmod>
   </url>
@@ -19,7 +24,7 @@
   
   <url>
     <loc>https://vlamacko.github.io/</loc>
-    <lastmod>2018-03-20T02:15:35+00:00</lastmod>
+    <lastmod>2018-03-20T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

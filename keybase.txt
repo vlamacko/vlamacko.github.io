@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/vlamacko
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vlamacko.github.io
+  * I am vlamacko (https://keybase.io/vlamacko) on keybase.
+  * I have a public key ASA7i9sqfUOeHyPbtug2OBbWMeKR_FFY7xJjipqRlxzA1Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203b8bdb2a7d439e1f23dbb6e8363816d631e291fc5158ef12638a9a91971cc0d50a",
+      "host": "keybase.io",
+      "kid": "01203b8bdb2a7d439e1f23dbb6e8363816d631e291fc5158ef12638a9a91971cc0d50a",
+      "uid": "154fbfb9761dfe6757547e5ce7e68e19",
+      "username": "vlamacko"
+    },
+    "merkle_root": {
+      "ctime": 1522924040,
+      "hash": "92e619cdbaa014fda6f2b9385035d560550a639a4b6f6a3abefb48b880861ddbead72978425edc3520c8619e97927e651995262f22c8deb7031fd43eddc9086f",
+      "hash_meta": "2ada60ac95f11498edebd1e210b5b212df490a9af3bd503cf3838e3078d3251f",
+      "seqno": 2339858
+    },
+    "service": {
+      "entropy": "xHXZCg+IFH+ZL0pwz9kwtkbZ",
+      "hostname": "vlamacko.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1522924051,
+  "expire_in": 504576000,
+  "prev": "3f6c269efc975dc9195aefc870ba8d25db86fabbe44961c62a3a5e3a4562a8b4",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgO4vbKn1Dnh8j27boNjgW1jHikfxRWO8SY4qakZccwNUKp3BheWxvYWTESpcCGMQgP2wmnvyXXckZWu/IcLqNJduG+rvkSWHGKjpeOkViqLTEILaPuk4jCFO0tNbTiY6pWxf1R2CASUQyBA4jlpSA/SQCAgHCo3NpZ8RAQlaF20qjW+lHF1p8CkjQS6ZtBd6rJxtQGjUyslkTx/tx/lHxjCzdhkt+XcHnoiWLajnvdxGSv79wzerotC2hBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN7Shyrqgb15DbbYM63yXNn953UR4mkCsGNuJgqMG57Go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vlamacko
+
+==================================================================
